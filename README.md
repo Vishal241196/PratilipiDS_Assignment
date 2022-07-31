@@ -65,6 +65,9 @@ In the model Evaluation part, we calculate,
 7. Classification Report
 8. Predicted Model
 
+##### Time series forecasting
+- It gives detail description about, How many user is going to read pratilipis later
+
 
 ### 3. Summary
 The machine learning model has been fitted and predicted with the accuracy score. The goal of this project is nothing but the results from the analysis and machine learning model.
